@@ -1,1 +1,3 @@
-"# Wheeler \ a Qt animation consisting rotating arcs" 
+# Wheeler
+
+A Qt animation consisting rotating arcs.
