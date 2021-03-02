@@ -1,0 +1,15 @@
+#ifndef ARC_H
+#define ARC_H
+
+#include <QGraphicsItem>
+#include <QGraphicsScene>
+#include <QPainter>
+
+class Arc
+{
+    
+public:
+    Arc();
+};
+
+#endif // ARC_H
